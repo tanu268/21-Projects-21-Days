@@ -44,5 +44,3 @@ pip install pandas numpy matplotlib seaborn
 This repository is for educational purposes only.
 
 ---
-
-*Good luck with your 21-day challenge!*
