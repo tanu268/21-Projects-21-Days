@@ -2,14 +2,6 @@
 
 Welcome! This repository contains solutions and explorations for the **GeeksforGeeks 21 Days, 21 Projects** challenge. Each day features a new data science or machine learning project, with code, analysis, and insights.
 
-## Structure
-
-  - `Day01_Titanic_EDA/`
-    - `my_submission/`
-      - `Titanic_EDA_Assignment.ipynb`
-      - `README.md`
-      - `Titanic-Dataset.csv`
-  
 
 ## Getting Started
 
@@ -31,13 +23,6 @@ Install core dependencies:
 ```sh
 pip install pandas numpy matplotlib seaborn
 ```
-
-## Progress
-
-| Day | Project Title         | Status      |
-|-----|----------------------|-------------|
-| 1   | Titanic EDA          | ✅ Complete |
-| ... | ...                  | ...         |
 
 ## License
 
